@@ -33,6 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -62,11 +63,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=losertowinner&show_icons=true&theme=transparent" alt="Stats Github" />
     </td>
     <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=losertowinner&theme=transparent" alt="Daily Activity Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=losertowinner&layout=pie&theme=transparent" alt="Most Used Languages" />
     </td>
   </tr>
