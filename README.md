@@ -65,5 +65,8 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=losertowinner&layout=pie&theme=transparent" alt="Most Used Languages" />
     </td>
+    <td>
+       <img src="http://github-readme-streak-stats.herokuapp.com?user=losertowinner&theme=transparent&background=0d1117&hide_border=true" />
+    </td>
   </tr>
 </table>
